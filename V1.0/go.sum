@@ -1,0 +1,6 @@
+github.com/reiver/go-oi v1.0.0 h1:nvECWD7LF+vOs8leNGV/ww+F2iZKf3EYjYZ527turzM=
+github.com/reiver/go-oi v1.0.0/go.mod h1:RrDBct90BAhoDTxB1fenZwfykqeGvhI6LsNfStJoEkI=
+github.com/reiver/go-telnet v0.0.0-20250617105250-7da9ad70a2b2 h1:JEUKAwQCLsAnXmAvrgVe54dk57gZFKJx0oAJNrEuvlo=
+github.com/reiver/go-telnet v0.0.0-20250617105250-7da9ad70a2b2/go.mod h1:84c/Kc3ylxVkRUmwlNmOUmZeMAdD0PsVdeAiXeJoI4E=
+golang.org/x/image v0.47.0 h1:za/8gVz++PPZqmZJBNSISICN5Rrj5zixP/8K++fgmqo=
+golang.org/x/image v0.47.0/go.mod h1:IkN5o4A7vq55vXN8FWjjnhg9Rs2GOtffqsSi9mWAKYE=
